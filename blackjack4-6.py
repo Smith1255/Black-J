@@ -19,7 +19,7 @@ class color:
 	DARKCYAN = '\033[36m'
 #Colors for use in text^
 
-version = str("4.5")
+version = str("4.6")
 #Used to call version number
 
 def vers_please():
