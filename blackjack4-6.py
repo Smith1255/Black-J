@@ -25,7 +25,7 @@ version = str("4.6")
 def vers_please():
 	print "{" + version + "}"
 	print "Copyright KM187 App Development"
-	print "November 11, 2014"
+	print "January 7 2015"
 
 #Used for copyright header^
 
