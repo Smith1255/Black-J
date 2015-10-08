@@ -7,7 +7,8 @@ The files in this repository are explained as follows:
 
 •The 'versional' folder contains all of the versions of the project, excluding those mentioned above
 
-•The program titled 'tempdict' is the file that the program stores user information in and must be in the same directory as the black jack application.
+•The program titled 'tempdict' is the file that the program stores user information in and must be in the same directory as the black jack application
+
 ---------------------------------------------------------------------------------------------------------------------
 #Andrew Smith
 
